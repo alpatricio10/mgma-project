@@ -17,8 +17,10 @@ This project analyzes and compares community structures in at least two differen
 - **SNAP Facebook Social Network Graph:** https://snap.stanford.edu/data/ego-Facebook.html
   - This is a Facebook Social Network graph extracted from SNAP
   - Download the facebook_combined.txt.gz file from the link above, extract the facebook_combined.txt file and place it in a data/ directory located in the same directory as the main Python notebook.
-- **Dataset 2:** 
-  - Short description
+- **Email-Eu-Core Network:** https://snap.stanford.edu/data/email-Eu-core.html
+  - This is a directed network of email communications between members of a large European research institution
+  - Nodes represent individual members (1,005 nodes) and edges represent email communications (25,571 directed edges)
+  - Download the email-Eu-core.txt.gz file from the link above, extract the email-Eu-core.txt file and place it in a data/ directory located in the same directory as the main Python notebook.
 
 ### 2. Libraries and Installation
 
