@@ -6,3 +6,6 @@ python-louvain
 scikit-learn
 seaborn
 igraph
+node2vec
+torch
+torch_geometric
