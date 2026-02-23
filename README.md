@@ -6,7 +6,8 @@ This project analyzes and compares community structures in at least two differen
 
 ## Contents
 
-- `Patricio_Olajuyigbe.ipynb` — Main analysis notebook with all results, code, and instructions
+- `Patricio_Olajuyigbe.ipynb` — Main analysis notebook with all results, code, and instructions for part 1
+- `Patricio_Olajuyigbe_Part2.ipynb` — Main analysis notebook with all results, code, and instructions for part 2
 - Requirements file (`requirements.txt`)
 - Data sources
   
