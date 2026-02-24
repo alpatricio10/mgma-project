@@ -6,9 +6,9 @@ This project explores a range of graph machine learning methods — including co
 
 ## Content
 
-- `Patricio_Olajuyigbe.ipynb` — Community detection and graph analysis on Facebook and Email datasets (Part 1)
+- `Patricio_Olajuyigbe_Part1.ipynb` — Community detection and graph analysis on Facebook and Email datasets (Part 1)
 - `Patricio_Olajuyigbe_Part2.ipynb` — KG embeddings and GNN-based link prediction on Different Datasets (Part 2)
-- `initial_progress.ipynb` — Some random initial experiments for Part 2
+- `Progress.ipynb` — Some random initial experiments for Part 2
 - Requirements file (`requirements.txt`)
 - Data sources (see below)
   
